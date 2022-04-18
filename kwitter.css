@@ -1,0 +1,39 @@
+#divsd {
+
+    text-align :center;
+    background-color:#3576d8;
+    padding : 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 20px;
+}
+
+body {
+    background-color:#77b5e7;
+}
+
+#see {
+    color: white;
+    font-family:cursive;
+}
+#login{
+    color: white;
+    font-family:cursive;
+    font-size: 20px;
+}
+
+#input1{
+   
+    font-family:cursive;
+    width: 200px;
+    text-align: center;
+    
+
+}
+
+#button1s{
+font-family: cursive;
+color:skyblue
+
+}
+
